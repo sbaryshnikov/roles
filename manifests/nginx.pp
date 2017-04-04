@@ -1,3 +1,3 @@
-class role::nginx {
-  include ::profile::nginx
+class roles::nginx {
+  include ::profiles::nginx
 }
